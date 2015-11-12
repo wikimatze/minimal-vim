@@ -5,6 +5,4 @@ let g:plug_threads = 40
 
 call plug#begin('~/.vim/plugged/') 
 
-Plug 'Shougo/vimproc.vim'
-
 call plug#end()
