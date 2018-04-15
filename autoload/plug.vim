@@ -2037,6 +2037,7 @@ endif
 
 aaa
 aaa
+aaaa
 
 let &cpo = s:cpo_save
 unlet s:cpo_save
