@@ -2035,6 +2035,8 @@ if exists('g:plugs')
   call s:define_commands()
 endif
 
+aaa
+
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
