@@ -2042,6 +2042,7 @@ aaaaa
 
 let &cpo = s:cpo_save
 unlet s:cpo_save
+aaaaa
 aaaa
 aa
 fdsfsdfsd fssfd
