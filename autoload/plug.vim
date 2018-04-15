@@ -2,6 +2,7 @@
 " ============================
 aaa
 aaa
+bbb
 "
 " Download plug.vim and put it in ~/.vim/autoload
 "
